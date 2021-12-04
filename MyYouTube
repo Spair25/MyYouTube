@@ -1,14 +1,21 @@
 <html>
 <head>
-<title>Мой  Ютуб Сайт
-</title>
+<title> Мой Ютуб Сайт</title>
  </head>
-        <body>
-         <header style="background-color:black">
-         </header>
-         <h1>  Мой Ютуб Сайт </h1>
-         <p> Я уже полным ходом подготавливаюсь к новой серии сериала "Жизнь Человека Паука" </p>
-         <p> И да , вот держите фотку новой  серии </p>
-         <img src="
+        <body style="background-color:lightgray">
+         <header style="background-color:gray" >
+      <h1 style="text-align:center;"> Мой Ютуб Сайт </h1>
+</header>
+<main>
+    <h4>Я уже полным ходом подготавливаюсь к новой серии сериала "Жизнь Человека Паука"</h4>
+         <p><h4> И да, вот держите фотку новой серии </h4></p>
+         
+             <h2 style="text-align:center">Если фотка не открывается то вот адрес ссылки на фотку</h2>
+             <h4>file:///C:/Users/Spair/Desktop/%D0%96%D0%B8%D0%B7%D0%BD%D1%8C%20%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA%D0%B0%20%D0%BF%D0%B0%D1%83%D0%BA%D0%B0%20%E2%84%962_0007.png"</h4>
+             <h4> Вставте эту ссылку в строку адреса и увидите фотографию</h4>
+         </main>
+<footer>
+        <a href="file:///C:/Users/Spair/Desktop/%D0%96%D0%B8%D0%B7%D0%BD%D1%8C%20%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA%D0%B0%20%D0%BF%D0%B0%D1%83%D0%BA%D0%B0%20%E2%84%962_0007.png"><h2 style="text-align:center;">Фотка новой серии</h2></a>
+             </footer>
          </body>
          </html>
